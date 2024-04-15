@@ -1,6 +1,6 @@
 # Alejandra Ledesma
 
-![Logo](/assets/Ale_Logo.png)
+![Logo](/images/Ale_Logo.png)
 
 ### Linkedin Profile
 [Linkedin](https://www.linkedin.com/in/ledesmaalejandra/)
