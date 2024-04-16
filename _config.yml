@@ -2,8 +2,8 @@ title: About Me
 logo: /images/Ale_Pic.png
 # description: My Portfolio
 show_downloads: false
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 # google_analytics: [Your Google Analytics tracking ID]
-remote_theme: pages-themes/minimal@v0.2.0
+# remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
