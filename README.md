@@ -1,11 +1,15 @@
 
 
-![Logo](/images/Ale_Logo.png)
+![Logo](/images/Ale.png)
 
 ## Alejandra Ledesma
 
 ### Linkedin Profile
 [Linkedin](https://www.linkedin.com/in/ledesmaalejandra/)
+
+
+### Profile
+Over 16 years of combined experience in Production, Translation, Localization, Web Development, Quality Assurance, Project Management, and UX Design. 
 
 
 ### Work Experience
@@ -55,6 +59,29 @@
 - Managed vendor relationships, tracked team expenses, and drafted vendor contracts. 
 
 
+**The Walt Disney Company**
+
+*QA Localization Project Lead, Spanish  MARCH 2012 - APRIL 2016*
+- Reviewed localized content and translated strings to fit the necessary contexts. 
+- Successfully managed the translation and linguistic QA of multiple platforms, mobile games, and printed content. (Disney Universe, Brave, Epic Mickey, Where’s my water, Cars, among others). 
+- Responsible for writing test plans, tracking errors, and verifying all reported bugs were corrected. 
+- Managed vendor relations and led team meetings. 
+
+**Neopets**
+
+*Spanish Content Coordinator AUGUST 2007 - MARCH 2012*
+- Management of all aspects of the Spanish version of www.neopets.com 
+- Translation from English - Spanish 
+- Helped troubleshoot issues reported by users. 
+- QA of newly released content.
+
+
+**Taiwan Animation Festival (TIAF)**
+
+*Spanish Content Coordinator MAY 2007 - AUGUST 2007*
+- Sourced and translated multiple animated clips from South, and Central America and Mexico to be featured in the 2007 TIAF Animation Festival. 
+
+
 ### Projects
 - Patent: 14/819,597 · Issued Aug 6, 2015
 - [Games and Disney online content](https://aja.disney.com/)
@@ -63,4 +90,8 @@
 - [Spanish instance of neopets.com](https://www.neopets.com/)
 
 ### Education
-- UC Berkeley
+- UC Berkeley [2023]
+- Pasadena City College [2020]
+- UCLA Extension [2016]
+- Hackbright Academy [2016]
+
