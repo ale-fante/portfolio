@@ -8,10 +8,6 @@
 [Linkedin](https://www.linkedin.com/in/ledesmaalejandra/)
 
 
-### Profile
-Over 16 years of combined experience in Production, Translation, Localization, Web Development, Quality Assurance, Project Management, and UX Design. 
-
-
 ### Work Experience
 
 **Walt Disney Animation Studios**
