@@ -81,13 +81,13 @@
 ### Projects
 - Patent: 14/819,597 · Issued Aug 6, 2015
 - [Games and Disney online content](https://aja.disney.com/)
-- [Voice-overs](https://aja.disney.com/)
+- [Voice-overs](https://video.disney.com/watch/dise-o-de-u-as-de-extraterrestres-de-toy-story-toy-story-alien-nails-disney-pixar-5208358f7af09450718d0e06)
 - [StarWars.de](https://www.disney.de/)
 - [Spanish instance of neopets.com](https://www.neopets.com/)
 
 ### Education
-- UC Berkeley [2023]
-- Pasadena City College [2020]
-- UCLA Extension [2016]
-- Hackbright Academy [2016]
+- UC Berkeley - Sociology[2023]
+- Pasadena City College - Linguistics and Humanities[2020]
+- UCLA Extension - UX Design[2016]
+- Hackbright Academy - Software Development [2016]
 
