@@ -13,10 +13,10 @@
 **Walt Disney Animation Studios**
 
 *Sr. Project Manager, Technology  NOVEMBER 2019 - PRESENT*
-- Process to maintain studio software and services up to date.
-- Prioritization, planning, and completion of projects for five engineering teams.
-- Technical documentation based on service launches and retrospectives.
-- Tracking dependencies to ensure services get monitored and updated regularly.
+- Business Requirements and Workload Prioritization
+- Cross-functional Team Leadership
+- Product Road Mapping
+- Product Strategy
 
 **Nickelodeon Virtual Worlds**
 
