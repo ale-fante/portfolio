@@ -88,7 +88,7 @@
 - [Spanish instance of neopets.com](https://www.neopets.com/)
 
 ### Education
-- UC Berkeley
-- Pasadena City College
-- Hackbright Academy - Software Development
+- 2023 - UC Berkeley - B.A. 
+- 2020 - Pasadena City College - A.A.
+
 
