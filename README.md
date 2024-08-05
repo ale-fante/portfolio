@@ -46,15 +46,14 @@
 **The Walt Disney Company**
 
 *Producer, International APRIL 2016 - APRIL 2017*
--  Successfully produced over 600 casual games localized into 25 languages, five major websites, and multiple marketing campaigns. 
-- Created extensive technical documentation for all software developers involved in the projects, detailing the - technical requirements of each of the projects. 
-- Created tools to help the team continue to work efficiently even in the temporary absence of developers. 
-- Helped communicate technical needs across different teams: from production to QA and other stakeholders. 
-- Responsible for explaining technology to product managers to help set more realistic expectations and deadlines. 
-- Managed relationships with local and remote teams. 
-- Helped reduce the cost of localization by 25% over one year by saving and reusing existing localized assets. 
+- Successfully produced over 600 casual games localized into 25 languages, five major websites, and multiple marketing campaigns. 
+- Created technical documentation for processes and vendors' requirements.
+- Created scripts and tools to help the internal team continue to work efficiently.
+- Helped communicate technical needs across different teams and stakeholders.
+- Responsible for communicating expectations and deadlines to stakeholders and vendors.
+- Helped reduce the cost of localization by saving, reusing, and templating existing localized assets. 
 - Translated and recorded voiceovers in Spanish. 
-- Localization for www.starwars.com 
+- Localization for www.starwars.com for Germany and Latin America.
 - Managed vendor relationships, tracked team expenses, and drafted vendor contracts. 
 
 
