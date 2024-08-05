@@ -24,11 +24,13 @@
 **Nickelodeon Virtual Worlds**
 
 *Sr. Technical Project Manager AUGUST 2018 - NOVEMBER 2019*
-- App development process of new features and bug fixes on Android and iOS. 
-- Compliance and Technical documentation. 
-- Quality Assurance of every iteration of mobile games in all available languages. 
-- UX modifications to comply with Google and Apple’s mobile app marketplace requirements. 
-- Responsible for ensuring all mobile releases got approved and were on the market on time. 
+- Responsible for managing the development of mobile and online games. 
+- Documentation of procedures, test plans, and UX updates for games on all platforms. 
+- Maintained stakeholders and all involved teams up to date on the status of bugs and upcoming features. 
+- Worked closely with engineering, quality assurance, localization, design, and marketing teams to ensure they had all the materials and context to remain unblocked. 
+- Ensured that all engineering updates maintained games that were compliant with Android and Apple store application requirements. 
+- Partnered with legal to ensure all changes and wording were approved prior to publishing new games or updates. 
+- Worked with localization and engineering third-party companies to ensure localized content was properly updated and tested.
 
 
 **The Walt Disney Company**
