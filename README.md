@@ -13,10 +13,13 @@
 **Walt Disney Animation Studios**
 
 *Sr. Project Manager, Technology  NOVEMBER 2019 - PRESENT*
-- Business Requirements and Workload Prioritization
-- Cross-functional Team Leadership
-- Product Road Mapping
-- Product Strategy
+- Oversee projects, daily tasks, and the needs of multiple system engineering teams. 
+- Follow through on individual and team-wide short—and long-term goals placed by engineering managers, technology leaders, and stakeholders. 
+- Responsible for regular reconfiguration bug fixes, administration of JIRA workflows, projects, and team filters, dashboard maintenance, and documentation of processes and teams in Confluence. 
+- Identify and ensure different teams collaborate as needed.
+- Foster communication between engineers and create team-building exercises to improve collaboration. 
+- Onboarding and overseeing new team members, summer interns, and contractors.
+- In charge of execution of scrum exercises and meeting facilitation for multiple teams.
 
 **Nickelodeon Virtual Worlds**
 
