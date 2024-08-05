@@ -89,6 +89,5 @@
 
 ### Education
 - 2023 - UC Berkeley - B.A. 
-- 2020 - Pasadena City College - A.A.
 
 
