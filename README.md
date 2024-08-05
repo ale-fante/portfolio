@@ -63,7 +63,7 @@
 - Reviewed localized content and translated strings to fit the necessary contexts. 
 - Successfully managed the translation and linguistic QA of multiple platforms, mobile games, and printed content. (Disney Universe, Brave, Epic Mickey, Where’s my water, Cars, among others). 
 - Responsible for writing test plans, tracking errors, and verifying all reported bugs were corrected. 
-- Managed vendor relations and led team meetings. 
+- Led vendor and team meetings.
 
 **Neopets**
 
