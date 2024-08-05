@@ -36,13 +36,11 @@
 **The Walt Disney Company**
 
 *Associate Software Engineer, Data Science  APRIL 2017 - AUGUST 2018*
-- Developed a machine learning-based recommendation system for an international streaming service. 
-- Created technical documentation for software developers and extensive test plans for quality assurance engineers. 
-- Ensured all programming tasks got completed by the target date by removing blockers from software developers. 
-- Took on coding assignments from more experienced developers to help them focus on higher, more complex priorities. 
-- Helped communicate technical needs across different teams: from production to QA and other stakeholders. 
+- Member of an engineering team that developed Machine Learning recommendation features for a streaming service application.
+- Maintained team's technical Documentation and user requirements.
+- Helped communicate technical needs across different teams, from production to QA and other stakeholders. 
 - Helped investigate tools and software that could be of use to the team. 
-- User research, developing user personas and scenarios, information architecture, responsive design, mobile-first, system and user interface design, prototype creation, usability testing, analytics, and analysis.
+- Front-end development: Worked closely with designers through the user research phase and development of user personas to the actual modification of user interfaces.
 
 
 **The Walt Disney Company**
