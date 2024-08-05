@@ -86,8 +86,7 @@
 - [Spanish instance of neopets.com](https://www.neopets.com/)
 
 ### Education
-- UC Berkeley - Sociology
-- Pasadena City College - Linguistics and Humanities
-- UCLA Extension - UX Design
+- UC Berkeley
+- Pasadena City College
 - Hackbright Academy - Software Development
 
