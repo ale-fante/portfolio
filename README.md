@@ -88,6 +88,7 @@
 - [Spanish instance of neopets.com](https://www.neopets.com/)
 
 ### Education
+- 2028 - UCLA Anderson School of Business - M.B.A.
 - 2023 - UC Berkeley - B.A. 
 - 2020 - Pasadena City College - A.A.
 
